@@ -4,6 +4,7 @@ import assignment1 as a1
 import numpy as np
 import matplotlib.pyplot as plt
 
+
 (countries, features, values) = a1.load_unicef_data()
 
 N_TRAIN = 100

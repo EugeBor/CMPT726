@@ -4,7 +4,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-
 def draw_sep(w):
     """ Draw a hyperplane w'x
     w is [w_1 w_2 bias]'
